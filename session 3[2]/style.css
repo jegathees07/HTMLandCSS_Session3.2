@@ -1,0 +1,50 @@
+
+body{
+    display: flex;
+}
+.abc{
+    border: 1px solid wheat;
+    width:320px;
+    height: 320px;
+    margin-left: 5px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.sec{
+    padding-top: 7%;
+}
+.para-1{
+    padding-top: 7%;
+    width: auto;
+}
+.para{
+    font-size: larger;
+}
+.sec-1{
+    padding-top: 25px;
+}
+.container{
+    display: inline;
+    margin-left: 10px;
+    border: 1px solid wheat;
+    height: 320px;
+    width: 320px;
+    border-radius: 5px;
+    padding-left: 20px;   
+}
+
+.sec2{
+    padding-top: 7% ;
+}
+.para2{
+    padding-top: 7%;
+    width:auto;
+    
+}
+.phone{
+    font-size: larger;
+    
+}
+.phone2{
+    padding-top: 10px;
+}
